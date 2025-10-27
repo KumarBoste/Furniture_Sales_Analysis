@@ -1,2 +1,1 @@
-# Furniture_Sales_Analysis
-Excel Project
+# Furniture Sales Analysis using EXCEL
