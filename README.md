@@ -1,5 +1,5 @@
 # Furniture Sales Analysis using EXCEL
-![FSLOGO](https://github.com/KumarBoste/Furniture_Sales_Analysis/tree/main/Excel%20Dashboard)
+![FSLOGO](https://github.com/KumarBoste/Furniture_Sales_Analysis/blob/main/Furniture%20Sales%20LOGO.png)
 
 ## Project Overview
 This project analyzes furniture sales data to evaluate performance across multiple dimensions such as sales volume, profit, shipping mode, delivery duration, and geographical distribution. The Power BI dashboard visually represents critical KPIs, enabling decision-makers to identify trends and areas for improvement.
