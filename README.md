@@ -8,6 +8,9 @@ Key metrics include:
 - Total Profit: $18.5K
 - Quantity Sold: 8K units
 
+## Dashboard
+![DASHBOARD](https://github.com/KumarBoste/Furniture_Sales_Analysis/blob/main/Dashboard/Furniture%20Sales%20Dashboard.png)
+
 ## Business Problem
 The company faces challenges in:
 - Identifying the most profitable product categories and regions.
