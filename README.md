@@ -9,7 +9,7 @@ Key metrics include:
 - Quantity Sold: 8K units
 
 ## Dashboard
-![DASHBOARD](https://github.com/KumarBoste/Furniture_Sales_Analysis/tree/main/Excel%20Dashboard)
+![DASHBOARD](https://github.com/KumarBoste/Furniture_Sales_Analysis/blob/main/Excel%20Dashboard/Furniture%20Sales%20Dashboard.png)
 
 ## Business Problem
 The company faces challenges in:
