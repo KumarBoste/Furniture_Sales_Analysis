@@ -2,7 +2,7 @@
 ![FSLOGO](https://github.com/KumarBoste/Furniture_Sales_Analysis/blob/main/Furniture%20Sales%20LOGO.png)
 
 ## Project Overview
-This project analyzes furniture sales data to evaluate performance across multiple dimensions such as sales volume, profit, shipping mode, delivery duration, and geographical distribution. The Power BI dashboard visually represents critical KPIs, enabling decision-makers to identify trends and areas for improvement.
+This project analyzes furniture sales data to evaluate performance across multiple dimensions such as sales volume, profit, shipping mode, delivery duration, and geographical distribution. The Excel dashboard visually represents critical KPIs, enabling decision-makers to identify trends and areas for improvement.
 Key metrics include:
 - Total Sales: $742K
 - Total Profit: $18.5K
